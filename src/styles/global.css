@@ -1,0 +1,22 @@
+h1 {
+    margin-bottom: 100px;
+}
+
+.input1 {
+    width: 500px;
+    margin-left: 390px;
+    margin-bottom: 50px;
+}
+
+.button1 {
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 550px;  
+    margin-bottom: 70px;
+}
+
+.result {
+    font-size: 20px;
+    margin-left: 350px;
+    font-weight: 900;
+}
